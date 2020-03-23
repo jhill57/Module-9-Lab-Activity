@@ -9,6 +9,17 @@ while counter <= 10:
     counter = counter +1
 print (L)
 
+#Your print returns more than a list.  See code below
+#x = 0
+#L = []
+
+#while x < 11:
+#	L.append(x)
+#	x += 1
+	
+#print(L)
+	
+
 
 
 
